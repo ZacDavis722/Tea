@@ -10,16 +10,22 @@ body {
   font-size: 45px;
 }
 
-
-.container {
-  width: 100%;
-  height: 100%;
-  
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
-#box{
-
+#whiteTea{
+  color: white
 }
 
+#blackTea{
+  color: black;
+}
 
+#greenTea{
+  color: lightgreen;
+}
 
